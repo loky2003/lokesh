@@ -1,0 +1,2 @@
+Node ID,Node state,Name,Platform type,Operating system,Resource type,Source ID,Ping status,Agent version,Image ID
+i-0e1c08f7a0d3e8665,running,ssm,Linux,Amazon Linux,EC2Instance,i-0e1c08f7a0d3e8665,Online,3.3.1802.0,ami-05b10e08d247fb927
